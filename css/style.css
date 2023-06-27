@@ -1,0 +1,24 @@
+@charset "utf-8";
+html {
+    font-size: 100%;
+  }
+
+ 
+#index {
+    border: solid 3px;
+    text-align: center;
+  }
+
+  #index ul {
+    padding-left:0
+  }
+
+  #index li {
+    list-style:none
+  }
+
+
+
+  #monndaizi {
+    text-align: center;
+  }
